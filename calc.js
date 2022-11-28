@@ -17,4 +17,4 @@ function calc(action, num1, num2) {
 
 console.log(calc(`add`, 1, 2));
 console.log(calc(`multi`, 1, 2));
-console.log(calc(`substract`, 4, 2));
+console.log(calc(`substract`, 4, 2));//hello world
